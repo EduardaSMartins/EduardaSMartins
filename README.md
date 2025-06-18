@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Eduarda! 👋
 
-<!--
-**EduardaSMartins/EduardaSMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedora Full-stack  
 
-Here are some ideas to get you started:
+📚 Bacharelado em Ciência da Computação - UTFPR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Laravel | Vue.js | Node.js | NestJS | MySQL
+
+🔭 Atualmente trabalhando no projeto [Odontosys] disponível em https://github.com/EduardaSMartins/OdontoSys
+
+🌱 Estudando métodos ágeis e aprimorando meus conhecimentos em desenvolvimento fullstack
+
+🔄 Sempre buscando melhorar, aprender coisas novas e codar!
+
+📫 Contato:
+- Email: eduarda.smartins44@gmail.com
