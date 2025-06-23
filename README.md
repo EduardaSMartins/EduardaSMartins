@@ -12,5 +12,7 @@
 
 🔄 Sempre buscando melhorar, aprender coisas novas e codar!
 
+🧠 “Entre algoritmos, sonhos e soluções, escolhi programar o meu próprio caminho e abrir portas para quem vier depois.”
+
 📫 Contato:
 - Email: eduarda.smartins44@gmail.com
