@@ -6,7 +6,7 @@
 
 💻 Laravel | Vue.js | Node.js | NestJS | MySQL
 
-🔭 Atualmente trabalhando no projeto [Odontosys] disponível em https://github.com/EduardaSMartins/OdontoSys
+🔭 Atualmente trabalhando no projeto [CookBook] disponível em https://github.com/EduardaSMartins/recipe-notebook
 
 🌱 Estudando métodos ágeis e aprimorando meus conhecimentos em desenvolvimento fullstack
 
