@@ -4,7 +4,7 @@
 
 📚 Bacharelado em Ciência da Computação - UTFPR
 
-💻 Laravel | Vue.js | Node.js | NestJS | MySQL
+💻 Laravel | Vue.js | Node.js | NestJS | MySQL | PHP | RabbitMQ
 
 🔭 Atualmente trabalhando no projeto [CookBook] disponível em https://github.com/EduardaSMartins/recipe-notebook
 
